@@ -1,8 +1,6 @@
 import random
 
-
 acc_bal = 1200.00
-
 
 print('Hello Welcome! Kindly enter your first name.')
 first_name = input()
@@ -38,7 +36,7 @@ elif option == 'b' or option == 'B':
 
 else:
     print('Invalid input \n Try again')
-   
+
 
 
 
